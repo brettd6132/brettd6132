@@ -33,15 +33,14 @@
 
 - [My website](https://daboltgod.ml)
 - [My PMMP Plugins](https://poggit.pmmp.io/ci/daboltgod/)  
-- [My Discord Server](https://dsc.gg/shroomlight)  
-- [My Host - Down At the moment!!!](https://cp.vortex-systems.ml)
+- [My Discord Server](https://discord.daboltgod.ml)  
 
 # My email
 - daboltgod22@gmail.com  
 
 # About Me
 # -- Pronouns --
-#### They/Them
+#### He/Him
 
 # My Discord  
-### DaBoltGod#0001  
+### DaBoltGod#6957
