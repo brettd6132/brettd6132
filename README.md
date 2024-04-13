@@ -18,8 +18,8 @@
 <br>
 <br>
     
-<a href="https://discord.com/users/758791280980918292">
-        <img src="https://lanyard.cnrad.dev/api/758791280980918292?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."/>
+<a href="https://discord.com/users/1208683964668190720">
+        <img src="https://lanyard.cnrad.dev/api/1208683964668190720?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."/>
     </a>
 </p>
 &nbsp;
