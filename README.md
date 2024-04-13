@@ -31,10 +31,6 @@
     <a href="https://discord.com/users/847030527822266378">
         <img src="https://raw.githubusercontent.com/daboltgod/daboltgod/main/assets/icons/other/discord.svg" width="30px" />
     </a>
-    &nbsp;
-    <a href="https://www.youtube.com/c/YouTube">
-        <img src="https://raw.githubusercontent.com/daboltgod/daboltgod/main/assets/icons/other/youtube.svg" width="30px" />
-    </a>
 
 </p>
 <hr/>
