@@ -27,10 +27,6 @@
     <a href="https://github.com/daboltgod/">
         <img src="https://raw.githubusercontent.com/daboltgod/Frazix12/main/assets/icons/other/github.svg" width="30px" />
     </a>
-    &nbsp;
-    <a href="https://discord.com/users/847030527822266378">
-        <img src="https://raw.githubusercontent.com/daboltgod/daboltgod/main/assets/icons/other/discord.svg" width="30px" />
-    </a>
 
 </p>
 <hr/>
