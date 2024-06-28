@@ -12,7 +12,7 @@
   <a href="https://github.com/itzxyloyt?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/itzxyloyt?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     
-  <a href="https://github.com/itzxyloyt/itzxyloyt/index.php">
+  <a href="https://github.com/itzxyloyt/itzxyloyt/viewcount.php">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=itzxyloyt&color=blueviolet&style=for-the-badge"/></a>
     
 <br>
