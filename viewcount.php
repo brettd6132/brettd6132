@@ -17,8 +17,7 @@ function incrementFile($filename): int {
     else { $count = 1;
         file_put_contents($filename, $count); }
     return $count; }
-function shortNumber($num) {
-    $units = ['', 'K', 'M', 'B', 'T'];
+function shortNumber($num) { $units = ['', 'K', 'M', 'B', 'T'];
     for ($i = 0; $num >= 1000; $i++) { $num /= 1000; }
     return round($num, 1) . $units[$i]; }
 function curl_get_contents($url): string { $ch = curl_init(); 
